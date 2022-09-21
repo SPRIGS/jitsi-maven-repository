@@ -3,11 +3,12 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-pager-view</artifactId>
   <versioning>
-    <latest>5.4.9-jitsi-11727982</latest>
-    <release>5.4.9-jitsi-11727982</release>
+    <latest>5.4.9-jitsi-11746431</latest>
+    <release>5.4.9-jitsi-11746431</release>
     <versions>
       <version>5.4.9-jitsi-11727982</version>
+      <version>5.4.9-jitsi-11746431</version>
     </versions>
-    <lastUpdated>20220919084347</lastUpdated>
+    <lastUpdated>20220921115838</lastUpdated>
   </versioning>
 </metadata>
